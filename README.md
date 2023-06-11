@@ -21,5 +21,3 @@ classifier = cv2.CascadeClassifier(**"the actual path to this file in your compu
 The resources that helped me were:
 * [The OpenCV class list](https://docs.opencv.org/4.7.0/annotated.html)
 * [GeeksforGeeks](https://www.geeksforgeeks.org/opencv-python-tutorial/)
-* [Stack Overflow](https://stackoverflow.com/questions/20801015/recommended-values-for-opencv-detectmultiscale-parameters)
-
